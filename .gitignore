@@ -28,3 +28,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Plugins/
+Assets/GoogleVR/
+Assets/GoogleVR.meta
+GvrIgnoreManifestMergeCheck.txt
+Assets/Standard Assets/
+Assets/Standard Assets.meta
